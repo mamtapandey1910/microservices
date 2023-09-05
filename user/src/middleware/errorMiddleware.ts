@@ -1,4 +1,4 @@
-import { AllAPI } from "../userRegistration/regTypes";
+import { APIType } from "../allAPI/userRegistration/regTypes";
 import { ErrorMiddlewareType } from "./errorMiddlewareType";
 
 export const errorMiddleware: ErrorMiddlewareType = (err, req, res, next) => {

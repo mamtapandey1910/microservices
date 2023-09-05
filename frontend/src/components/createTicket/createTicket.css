@@ -1,0 +1,24 @@
+.ticket-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(210, 206, 206);
+    width: 20rem;
+    height: 10rem;
+    gap: 10px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.ticket-input {
+    height: 30px;
+    padding: 5px;
+    width: 90%;
+}
+
+.ticket-textArea {
+    height: 100px;
+    padding: 5px;
+    width: 90%;
+}

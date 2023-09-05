@@ -1,0 +1,19 @@
+.register-container {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    gap: 5px;
+    justify-content: center;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgb(193, 192, 192);
+    margin: 20px auto;
+    align-items: center;
+}
+
+.register-input {
+    height: 30px;
+    padding: 5px;
+    width: 90%;
+}
